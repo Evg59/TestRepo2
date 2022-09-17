@@ -1,0 +1,6 @@
+[DEFAULT]
+BASEURL=http://172.16.16.38/labz/index.html
+
+[InternetShortcut]
+URL=http://172.16.16.38/labz/index.html
+Modified=20919E4F39A8C30143
